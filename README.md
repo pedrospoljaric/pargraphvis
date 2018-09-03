@@ -8,4 +8,4 @@ In order to generate a dynamic graph file from a trace log file, the program is 
 
 This will make the program begin to generate a gexf extension file, which describes the graph variation during the time limited by the trace file. Those changes on the graph are made out of the message exchanges between the cluster nodes. The gexf file can then bem openned with graph visualization platforms such as [Gephi] (https://gephi.org/).
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+This site was built using [Gephi](https://gephi.org/).
