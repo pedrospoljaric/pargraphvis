@@ -1,4 +1,4 @@
-ParGraphVis
+# ParGraphVis
 
 Parallel program visualization and performance analysis tools have a high cost of development. As a consequence, there are many of these tools that are proprietary what makes difficult their adoption by the general community. This work introduces the use of general purpose open software for visualization and characterization of parallel programs. In particular, the use of an open graph visualization tool is presented as a case study for the dynamic communication characterization of a NAS parallel benchmark. The results show that a general purpose open graph tool could be used to analyze some important aspects related to the communication of parallel message passing programs.
 
